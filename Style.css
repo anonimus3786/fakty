@@ -1,0 +1,11 @@
+body{
+    background: url("https://i.artfile.ru/1920x1200_631035_[www.ArtFile.ru].jpg");
+}
+h1{
+    color: rgb(46, 232, 0);
+}
+a{
+    color: yellow;
+    text-decoration: none;
+    font-size: 25px;
+}
